@@ -1,7 +1,10 @@
 # TASK - 1 : Perform Basic Mathematical Operations
+
+# Take two integer inputs from user 
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
+# Perform and display results of basics mathematical operations
 print("Addition:", (num1+num2))
 print("Subtraction:", (num1-num2))
 print("Multiplication:", (num1*num2))
