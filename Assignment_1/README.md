@@ -24,7 +24,7 @@ Division: 0.5
 ```
 
 ## Task 2: Create a Personalized Greeting
-This program is designed to create a custom greeting by processing user names[cite: 3, 4].
+This program is designed to create a custom greeting by processing user names.
 
 ### Features:
 **User Input**: Takes the user's first name and last name as separate inputs.
