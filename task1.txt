@@ -1,0 +1,3 @@
+Hello Duniya!!
+Welcome to my assignment on Files and Exceptions in Python.
+Have a great day ahead!
